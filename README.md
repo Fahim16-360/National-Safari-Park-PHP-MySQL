@@ -3,6 +3,7 @@ This is a PHP, MySQL CRUD coding web application project for the CIS-331 Web Eng
 Web Engineering, Summer 2021 course midterm assignment lab project.
 
 ID: 183-16-360
+
 Course lecturer/Instructor: Abdullah Bin Kasem Bhuiyan,
 https://github.com/Abkbhuiyan
 
@@ -19,6 +20,7 @@ How to open this project:
 4. Create database "safari" at http://localhost/phpmyadmin/
 5. Insert/execute safari.sql file to the safari database.
 6. openlink: http://localhost/safari/
+
 Admin login:
 unsername: admin
 password: admin
