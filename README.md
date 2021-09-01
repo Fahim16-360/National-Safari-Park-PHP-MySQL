@@ -2,8 +2,10 @@
 This is a PHP, MySQL CRUD coding web application project for the CIS-331 Web Engineering course at Daffodil International University's department of CIS (COMPUTING AND INFORMATION SYSTEM).
 Web Engineering, Summer 2021 course midterm assignment lab project.
 ID: 183-16-360
+Course lecturer/Instructor: Abdullah Bin Kasem Bhuiyan
+https://github.com/Abkbhuiyan
 
-Ticket booking codes and some of the functions used PHP AJAX.
+Some of the ticket booking codes and some of the functions used PHP AJAX. 
 This web application coded on from actual this project:
 https://www.campcodes.com/projects/php/online-ticket-reservation-system-using-php-mysql-free-download/
 
